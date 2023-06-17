@@ -13,3 +13,11 @@ modifiednames.forEach(name=>{
 	li.textContent=name;
 	ul.appendChild(li);
 })
+document.body.appendChild(ul);
+
+
+
+
+
+
+
